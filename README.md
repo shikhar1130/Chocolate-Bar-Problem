@@ -6,6 +6,7 @@ children the correct amount whilst making the fewest cuts to the chocolate bars.
 
 ## Files:
 
+```
 Technical Challenge                     —— Root folder
 │                               
 ├── src/                        
@@ -21,6 +22,7 @@ Technical Challenge                     —— Root folder
 |   |── log-log_complexity_profile.png  —— Power law for some methods
 |   └── heatmap.pdf                     —— Shows code execution time distribution
 └── README.md                           —— This file
+```
 
 ## How it works:
 
