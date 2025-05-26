@@ -320,7 +320,7 @@ class ChocolateDistributor:
         if remainder > 0:
             inventory[remainder] = inventory.get(remainder, 0) + 1
 
-        return len(pieces_used) - 1, True
+        return 0, True
 
     def remove_served_child(
         self,
